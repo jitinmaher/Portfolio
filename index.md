@@ -17,3 +17,11 @@ Laravel 5, PHP, APIs, MYSQL
 React Native
 ###### Cloud
 AWS
+
+## Projects
+
+###### Integration of Salesforce API
+
+###### Developed following features for Hiverhq.com
+  - Email tracking
+  - Shared drafts
