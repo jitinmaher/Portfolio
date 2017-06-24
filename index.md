@@ -10,30 +10,30 @@ I want to be involved in projects that I can be proud of, join an amazing team a
 ## Technology stack
 
 ###### Front-end
-Javascript, BackboneJS, JQuery
+Javascript, BackboneJS, JQuery, SASS
 ###### Back-end
 Laravel 5, PHP, APIs, MYSQL
 ###### Apps
 React Native
 ###### Cloud
-AWS
+Amazon AWS
 
 ## Projects
 
-- ###### Worked on development of Anroid and IOS app using React native
+- ###### Worked on development of Android and IOS app using React native
 
 - ###### Integration of Salesforce API
 
-- ###### Worked on Gmail's API
+- ###### Worked on Integration of Gmail's API with various Hiver features
 
 - ###### Developed following features for Hiverhq.com
+
   - Email tracking
-  
-    blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah       blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah       blah blah 
     
   - Shared drafts
   
-    blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah       blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah       blah blah 
+  - Permalinks
+   
     
 ## Contact me
 
