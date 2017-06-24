@@ -38,4 +38,4 @@ Email Id: jitin.maher@gmail.com
 
 Phone no: +91-8892553853
 
-[My twitter homepage] (https://twitter.com/jitinmaher)
+[My twitter homepage](https://twitter.com/jitinmaher)
