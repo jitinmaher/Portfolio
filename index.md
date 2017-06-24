@@ -12,7 +12,7 @@ I want to be involved in projects that I can be proud of, join an amazing team a
 ###### Front-end
 Javascript, Backbone
 ###### Back-end
-PHP, APIs, MYSQL
+Laravel 5, PHP, APIs, MYSQL
 ###### Apps
 React Native
 ###### Cloud
