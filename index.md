@@ -7,3 +7,13 @@ I am an alumnus of PES University Bangalore, graduating with a Bachelors of Engi
 
 I want to be involved in projects that I can be proud of, join an amazing team and advance my development career. Take some time to look at my work, and if you're interested in helping me make this happen, let's get in touch.
 
+## What I do
+
+###### Front-end
+Javascript, Backbone
+###### Back-end
+PHP, APIs, MYSQL
+###### Apps
+React Native
+###### Cloud
+AWS
