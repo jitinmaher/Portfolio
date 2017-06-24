@@ -20,8 +20,8 @@ AWS
 
 ## Projects
 
-###### Integration of Salesforce API
+- ###### Integration of Salesforce API
 
-###### Developed following features for Hiverhq.com
+- ###### Developed following features for Hiverhq.com
   - Email tracking
   - Shared drafts
