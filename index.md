@@ -20,6 +20,8 @@ AWS
 
 ## Projects
 
+- ###### Worked on development of Anroid and IOS app using React native
+
 - ###### Integration of Salesforce API
 
 - ###### Developed following features for Hiverhq.com
