@@ -7,6 +7,15 @@ I am an alumnus of PES University Bangalore, graduating with a Bachelors of Engi
 
 I want to be involved in projects that I can be proud of, join an amazing team and advance my development career. Take some time to look at my work, and if you're interested in helping me make this happen, let's get in touch.
 
+## Employment History
+
+Hiver (GrexIt, Inc.)                                                                                  July 2016 - Present
+Fullstack Developer
+
+
+Hiver (GrexIt, Inc.)                                                                                  January 2016 - June 2017
+Intern
+
 ## Technology stack
 
 ###### Front-end
