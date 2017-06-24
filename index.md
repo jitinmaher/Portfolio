@@ -10,7 +10,7 @@ I want to be involved in projects that I can be proud of, join an amazing team a
 ## Technology stack
 
 ###### Front-end
-Javascript, Backbone
+Javascript, BackboneJS, JQuery
 ###### Back-end
 Laravel 5, PHP, APIs, MYSQL
 ###### Apps
@@ -23,6 +23,8 @@ AWS
 - ###### Worked on development of Anroid and IOS app using React native
 
 - ###### Integration of Salesforce API
+
+- ###### Worked on Gmail's API
 
 - ###### Developed following features for Hiverhq.com
   - Email tracking
